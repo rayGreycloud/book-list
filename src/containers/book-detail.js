@@ -11,6 +11,8 @@ class BookDetail extends Component {
       <div>
         <h3>Details for:</h3>
         <div>Title: {this.props.book.title}</div>
+        <div>Author: {this.props.book.author}</div>
+        <div>Year: {this.props.book.year}</div>
         <div>Pages: {this.props.book.pages}</div>
       </div>
     );
