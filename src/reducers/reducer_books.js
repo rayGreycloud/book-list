@@ -4,5 +4,5 @@ export default function () {
     {title: 'Dune'},
     {title: 'The Hobbit'},
     {title: 'The Tao of Pooh'}
-  ]
+  ];
 }
